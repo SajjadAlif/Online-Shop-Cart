@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#hero{
+height: 45%;
+width: 100%;
+background: rebeccapurple;
+padding: 2px;
+}
+#text{
+    text-align: center;
+
+}
+.by{
+    color: yellow;
+}
+.Online{
+    color: white;
+}
+#flex{
+    text-align: center;
+    padding:0;
+}
+#boxs  {
+    display: flex;
+flex-direction: row;
+margin-left: 50px;   
+}
+.box1 ,.box2 ,.box3, .box4, .box5, .box6, .box7, .box8 {
+
+height: 250px;
+width: 150px;
+background-color:aquamarine;
+padding: 10px;
+margin: 15px;
+}
+.box4 {
+    margin-right: 50px;
+}
+.box9{
+margin: 0%;
+padding: 20px 0 0 20px;
+background-color:skyblue;
+height: 300px;
+width: 100%;
+color: black;
+text-align: start;
+
+}
+.tot{
+    font-size: large;
+}
+.btn{
+    border: 1px solid black;
+    font-size: medium;
+}
